@@ -3,9 +3,9 @@ A simple Android game(Snake) written in Golang
 
 Build with OSX 10.10 & Golang 1.4
 
-> go get github.com/Bowwn/gosnake
+> go get github.com/BownX/gosnake
 
-> cd $GOPATH/src/github.com/Bowwn/gosnake
+> cd $GOPATH/src/github.com/BownX/gosnake
 
 > ./all.bash
 
